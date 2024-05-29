@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"storyBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":0,
+        "categeory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":2,
+        "name":"ComicBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":50,
+        "categeory":"Entertaiment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":3,
+        "name":"MusicBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":100,
+        "categeory":"Entertaiment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":4,
+        "name":"storyBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":0,
+        "categeory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":5,
+        "name":"BhagawathgeethaBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":500,
+        "categeory":"Spritual",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":6,
+        "name":"storyBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":0,
+        "categeory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":7,
+        "name":"ComicBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":50,
+        "categeory":"Entertaiment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":8,
+        "name":"MusicBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":100,
+        "categeory":"Entertaiment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":9,
+        "name":"FoodBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":0,
+        "categeory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    },
+    {
+        "id":10,
+        "name":"RamayanaBook",
+        "title":"Loream ipusum dolor sit amet caonsecteture adisipasiing elit",
+        "price":500,
+        "categeory":"Spritual",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716907166~exp=1716910766~hmac=7aeb5256b89e4fbe7bcd28ef1fb71682f202ef9963fe7a32bc3237ef7fc8f155&w=740"
+    }
+]
